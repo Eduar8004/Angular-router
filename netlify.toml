@@ -1,6 +1,6 @@
 [build]
-  publish = “dist/platzi-store-demo”
-  command = “ng build”
+  publish = "dist/my-store-router"
+  command = "ng build"
 [[redirects]]
   from = "/*"
   to = "/index.html"
